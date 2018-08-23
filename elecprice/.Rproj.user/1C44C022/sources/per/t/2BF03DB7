@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534408278105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3987489278",
+    "id" : "2BF03DB7",
+    "lastKnownWriteTime" : 1534684415,
+    "last_content_update" : 1534684415625,
+    "path" : "D:/user/01378037/docum/GitHub/elecprice/Server.R",
+    "project_path" : "Server.R",
+    "properties" : {
+        "cursorPosition" : "14,34",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
